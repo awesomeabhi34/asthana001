@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/PriyanshuDangi/PriyanshuDangi/blob/master/Hi.gif" width="29px"> I am Priyanshu Asthana , I am -
+### Hi there I am Priyanshu Asthana , I am -
 
 - A Sophomore at NIT Trichy
 - Python Geek
