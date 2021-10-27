@@ -1,6 +1,6 @@
 ### Hi there I am Priyanshu Asthana , I am -
 
-- A Sophomore at NIT Trichy
+- A Pre-final Year at NIT Trichy
 - Python Geek
 - A UI/UX Designer
 
